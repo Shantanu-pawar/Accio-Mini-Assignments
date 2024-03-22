@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Accio-Mini-Assignments.iml" filepath="$PROJECT_DIR$/.idea/Accio-Mini-Assignments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Movie-Director-System-APIs-master/Director-Movie_API-s.iml" filepath="$PROJECT_DIR$/Movie-Director-System-APIs-master/Director-Movie_API-s.iml" />
+      <module fileurl="file://$PROJECT_DIR$/IRCTC/IRCTC.iml" filepath="$PROJECT_DIR$/IRCTC/IRCTC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MOVIE DIRECTOR APIs/MOVIE-DIRECTOR-APIs.iml" filepath="$PROJECT_DIR$/MOVIE DIRECTOR APIs/MOVIE-DIRECTOR-APIs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seat-reservation/seat-reservation.iml" filepath="$PROJECT_DIR$/seat-reservation/seat-reservation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/social media app/social media app.iml" filepath="$PROJECT_DIR$/social media app/social media app.iml" />
+    </modules>
+  </component>
+</project>
