@@ -6,8 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Director-Movie_API-s/Director-Movie_API-s.iml" filepath="$PROJECT_DIR$/Director-Movie_API-s/Director-Movie_API-s.iml" />
       <module fileurl="file://$PROJECT_DIR$/IRCTC/IRCTC.iml" filepath="$PROJECT_DIR$/IRCTC/IRCTC.iml" />
       <module fileurl="file://$PROJECT_DIR$/MOVIE DIRECTOR APIs/MOVIE-DIRECTOR-APIs.iml" filepath="$PROJECT_DIR$/MOVIE DIRECTOR APIs/MOVIE-DIRECTOR-APIs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seat-reservation/seat-reservation.iml" filepath="$PROJECT_DIR$/seat-reservation/seat-reservation.iml" />
-      <module fileurl="file://$PROJECT_DIR$/social media app/social media app.iml" filepath="$PROJECT_DIR$/social media app/social media app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/social media app/Social-media-application.iml" filepath="$PROJECT_DIR$/social media app/Social-media-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserOnboarding/UserOnboarding.iml" filepath="$PROJECT_DIR$/UserOnboarding/UserOnboarding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seat booking/seat-reservation.iml" filepath="$PROJECT_DIR$/Seat booking/seat-reservation.iml" />
     </modules>
   </component>
 </project>

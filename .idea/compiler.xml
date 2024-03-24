@@ -6,11 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="social media app" />
         <module name="Director-Movie_API-s" />
+        <module name="Social-media-application" />
         <module name="IRCTC" />
-        <module name="seat-reservation" />
         <module name="MOVIE-DIRECTOR-APIs" />
+        <module name="seat-reservation" />
+        <module name="UserOnboarding" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -19,12 +20,16 @@
       <module name="MOVIE-DIRECTOR-APIs" target="1.5" />
       <module name="seat-reservation" target="17" />
       <module name="social media app" target="17" />
+      <module name="Social-media-application" target="17" />
+      <module name="UserOnboarding" target="17" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Director-Movie_API-s" options="-parameters" />
       <module name="IRCTC" options="-parameters" />
+      <module name="Social-media-application" options="-parameters" />
+      <module name="UserOnboarding" options="-parameters" />
       <module name="seat-reservation" options="-parameters" />
       <module name="social media app" options="-parameters" />
     </option>
